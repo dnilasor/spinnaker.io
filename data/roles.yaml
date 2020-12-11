@@ -1,24 +1,24 @@
 - id: exec
-  name: Executive
-  shortdesc: Aliquip excepteur velit cillum qui
-  prompt: Enim veniam
+  name: For Leaders
+  shortdesc: Build a resilient software delivery lifecycle to accelerate results when it matters. 
+  prompt: Learn more
   longdesc: >
     Aliquip excepteur velit cillum qui exercitation non velit ut enim aliqua nulla dolore eu nostrud ea. Dolore excepteur excepteur commodo consectetur dolore reprehenderit pariatur. Id id eiusmod id anim id consequat excepteur deserunt et ad ut enim voluptate. Enim veniam ipsum aute nulla dolor non labore est veniam incididunt ex sint labore mollit. Commodo non et et minim laboris ut eu fugiat eu. Consectetur ullamco quis consectetur commodo id laboris ea qui esse exercitation deserunt cillum esse amet veniam ipsum.
 - id: op
-  name: Operator
-  shortdesc: Aliquip excepteur velit cillum qui
-  prompt: Enim veniam
+  name: For Operators
+  shortdesc: Create and operationalize a golden path to production. 
+  prompt: Learn more
   longdesc: >
     Aliquip excepteur velit cillum qui exercitation non velit ut enim aliqua nulla dolore eu nostrud ea. Dolore excepteur excepteur commodo consectetur dolore reprehenderit pariatur. Id id eiusmod id anim id consequat excepteur deserunt et ad ut enim voluptate. Enim veniam ipsum aute nulla dolor non labore est veniam incididunt ex sint labore mollit. Commodo non et et minim laboris ut eu fugiat eu. Consectetur ullamco quis consectetur commodo id laboris ea qui esse exercitation deserunt cillum esse amet veniam ipsum.
 - id: appdev
-  name: App Developer
-  shortdesc: Aliquip excepteur velit cillum qui
-  prompt: Enim veniam
+  name: For App Developers
+  shortdesc: Bring your feature ideas to life fearlessly with safe, simple pipelines.
+  prompt: Learn more
   longdesc: >
     Aliquip excepteur velit cillum qui exercitation non velit ut enim aliqua nulla dolore eu nostrud ea. Dolore excepteur excepteur commodo consectetur dolore reprehenderit pariatur. Id id eiusmod id anim id consequat excepteur deserunt et ad ut enim voluptate. Enim veniam ipsum aute nulla dolor non labore est veniam incididunt ex sint labore mollit. Commodo non et et minim laboris ut eu fugiat eu. Consectetur ullamco quis consectetur commodo id laboris ea qui esse exercitation deserunt cillum esse amet veniam ipsum.
 - id: contrib
-  name: Individual Contributor
-  shortdesc: Aliquip excepteur velit cillum qui
-  prompt: Enim veniam
+  name: For Individual Contributor
+  shortdesc: Learn, build, and extend Spinnaker to grow your skills and your company's bottom line.
+  prompt: Learn more
   longdesc: >
     Aliquip excepteur velit cillum qui exercitation non velit ut enim aliqua nulla dolore eu nostrud ea. Dolore excepteur excepteur commodo consectetur dolore reprehenderit pariatur. Id id eiusmod id anim id consequat excepteur deserunt et ad ut enim voluptate. Enim veniam ipsum aute nulla dolor non labore est veniam incididunt ex sint labore mollit. Commodo non et et minim laboris ut eu fugiat eu. Consectetur ullamco quis consectetur commodo id laboris ea qui esse exercitation deserunt cillum esse amet veniam ipsum.
